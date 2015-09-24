@@ -107,5 +107,4 @@ def solve_permutations(list:, locked:)
   end
 end
 
-# Should only be 24, getting way too many
 puts solve_all(length: 11, maximix: 2011)
